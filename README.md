@@ -28,7 +28,7 @@ Telegram
 
 ## Android ARCH Support
 
-* arm & arm64
+* arm64
 
 ## Support Partition Type
 
