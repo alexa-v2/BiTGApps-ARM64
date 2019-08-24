@@ -1,0 +1,7 @@
+CustomGAppsPackage=BiTGApps
+arch=arm64
+sdk=25
+platform=7.1.2
+BuildDate=21-August-2019
+BuildID=0.3
+Developer=TheHitMan @ xda-developers
