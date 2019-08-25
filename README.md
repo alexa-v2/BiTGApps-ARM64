@@ -1,3 +1,4 @@
+![Cover](1cecUb3.png)
 ## BiTGApps
 
 A custom gapps package with minimal install. Support custom features such as `Battery Optimization` for GMS Core and its components. Optimize APK files with `Zipalign` tool. Optimize application database with `Sqlite` tool.
