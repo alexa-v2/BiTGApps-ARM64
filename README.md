@@ -24,11 +24,11 @@ Telegram
 
 * Oreo `(8.1.0)`
 
-* Nougat `(7.1.1 & 7.1.2)`
+* Nougat `(7.1.2)`
 
 ## Android ARCH Support
 
-* arm & arm64
+* arm64
 
 ## Support Partition Type
 
