@@ -525,6 +525,10 @@ send_sparse_11() {
 allow_force_opt() {
  cp -f $TMP/pm.sh $SYSTEM/xbin/pm.sh
  chmod 0755 $SYSTEM/xbin/pm.sh
+ cp -f $TMP/pm.sh /data/adb/service.d/pm.sh
+ chmod 0755 /data/adb/service.d/pm.sh
+ # Not sure if this next line is actually needed
+ chown root:shell /data/adb/service.d/pm.sh
 }
 
 # execute installation functions
