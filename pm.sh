@@ -25,7 +25,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 ##############################################################
-
+while [ "`getprop sys.boot_completed | tr -d '\r' `" != "1" ] ; do sleep 1; done
 # This service is the part of Core APK
 pm disable com.google.android.gms/com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver;
 
